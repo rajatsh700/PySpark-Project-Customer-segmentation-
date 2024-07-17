@@ -1,0 +1,1 @@
+This script loads and preprocesses customer data, providing an overview of the data, calculating customer distribution by country, and filtering and cleaning data for customers in the United Kingdom. The cleaned data is then ready for further analysis, such as clustering for customer segmentation
